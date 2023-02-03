@@ -1,0 +1,26 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@biconomy/core-types": "^1.0.0",
+    "@biconomy/smart-account": "^1.0.0",
+    "@biconomy/web3-auth": "^1.0.0",
+    "@emotion/css": "^11.10.5",
+    "@thirdweb-dev/react": "^3.7.3",
+    "@thirdweb-dev/sdk": "^3.7.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "next": "^12",
+    "next-google-fonts": "^2.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yarn": "^1.22.19"
+  }
+}
